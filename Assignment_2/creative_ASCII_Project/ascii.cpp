@@ -4,6 +4,7 @@
 #include <fstream>
 #include <thread>
 #include <chrono> 
+#include <stdlib.h> 
 
 using namespace std;
 
@@ -18,16 +19,16 @@ void printColorAsciiArt(const std::vector<std::string>& art, int colorCode) {
     std::string color;
     switch (colorCode) {
     case 1:
-        color = "\033[31m"; // Red
+        color =  system("Color 0A"); // Red : "\033[31m"
         break;
     case 2:
-        color = "\033[32m"; // Green
+        color =  system("Color E4"); // Green: "\033[32m"
         break;
     case 3:
-        color = "\033[34m"; // Blue
+        color = system("Color B5"); // Blue: "\033[34m"
         break;
     case 4:
-        color = "\033[33m"; 
+        color = system("Color DE"); //"\033[33m"
         break;
 
     default:
