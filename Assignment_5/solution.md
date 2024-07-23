@@ -7,4 +7,4 @@
 
 - After we finish our seperate part, Adam merge all the different function together.
 
-<video controls src="img/CC2_Assignment5.mp4" title="Title"></video>
+- Video: https://youtu.be/IIVmM1YvrFE

@@ -27,4 +27,4 @@ Think about how to use a data type like a `struct` (or `class`) in your applicat
 
 - Also the amount of headers need to be added to main.cpp and ascii.cpp stll confuses me. Maye it will get better the more I code. 
   
-<video controls src="img/CC2_Assignment3_2_resized.mp4" title="Title"></video>
+- Video: https://youtu.be/98p9bLeou0M
