@@ -1,0 +1,10 @@
+# Assignment 5  - Graphics Practice
+
+
+### Assignment 2
+
+- Our team decided to develop something creative from the visual excrise Anna designed - the sphere. Alijosa finished the base code which creates the sphere. Adam and I focus on the interaction. In this part, my task is to get the sphere color and brigtness change according to the mouse X and Y position. Below is he demonstration of my part. 
+
+- After we finish our seperate part, Adam merge all the different function together.
+
+<video controls src="img/CC2_Assignment5.mp4" title="Title"></video>
