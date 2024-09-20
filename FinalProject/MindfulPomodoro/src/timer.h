@@ -2,7 +2,6 @@
 
 class Timer {
 public:
-    // Constructor to initialize the timer with durations
     Timer(int pomodoroDuration, int breakDuration);
 
     // Timer control functions

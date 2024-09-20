@@ -30,7 +30,7 @@ void Timer::skipBreak() {
     }
 }
 
-// Update the timer (called every frame)
+
 void Timer::update() {
     if (running && currentTime > 0) {
         currentTime--;
