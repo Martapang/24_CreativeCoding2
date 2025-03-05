@@ -6,6 +6,8 @@ This project is a Pomodoro timer with an integrated mindfulness feature,develope
 
 User Testing: For testing prupose, the timer is run by seconds instead of mins to let user try the functions easier and quicker. The second can be easier changed to min in the code. 
 
+Link for trailer: https://youtu.be/GQTlhbbzRoc
+
 ### 2. Inspiration
 The concept of the mindfulness bell was created by Zen master Thich Nhat Hanh and is used in Plum Village Monastery in southwest France. I first experienced it during a meditation retreat there. Throughout the retreat, the sound of a bell would ring from time to time, and everyone would stop—conversations paused, and all movement ceased. The bell serves as a reminder to take a few mindful breaths and return to a calm, present state. This practice had a deep impact on me, helping me step out of the constant rush of daily life.
 
